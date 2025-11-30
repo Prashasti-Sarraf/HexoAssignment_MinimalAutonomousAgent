@@ -1,0 +1,9 @@
+[2025-11-30 22:36:39] Detected modality: text
+[2025-11-30 22:36:39] Fitting text baseline...
+[2025-11-30 22:36:39] Text val accuracy: 0.6472
+[2025-11-30 22:36:39] Fitting text baseline...
+[2025-11-30 22:36:39] Text val accuracy: 0.6510
+[2025-11-30 22:36:39] Fitting text baseline...
+[2025-11-30 22:36:39] Text val accuracy: 0.6438
+[2025-11-30 22:36:39] Completed seeds. Mean: 0.6473, SE: 0.0030
+[2025-11-30 22:36:39] Wrote README.md and run_log.txt
