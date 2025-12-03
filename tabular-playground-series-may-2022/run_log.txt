@@ -1,0 +1,12 @@
+[2025-12-03 14:48:37] Detected modality: tabular
+[2025-12-03 14:48:43] Loaded train.csv shape = (900000, 33)
+[2025-12-03 14:49:33] Seed 0: val accuracy = 0.8409
+[2025-12-03 14:49:56] Saved submission to submission.csv
+[2025-12-03 14:49:59] Loaded train.csv shape = (900000, 33)
+[2025-12-03 14:50:51] Seed 1: val accuracy = 0.8409
+[2025-12-03 14:51:13] Saved submission to submission.csv
+[2025-12-03 14:51:16] Loaded train.csv shape = (900000, 33)
+[2025-12-03 14:52:26] Seed 2: val accuracy = 0.8395
+[2025-12-03 14:52:49] Saved submission to submission.csv
+[2025-12-03 14:52:49] Completed seeds. Mean=0.8404, SE=0.0005
+[2025-12-03 14:52:49] Wrote metrics.json and run_log.txt
