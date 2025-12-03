@@ -1,0 +1,31 @@
+[2025-12-02 21:33:26] Detected modality: text
+[2025-12-02 21:33:26] Reading train.csv:/content/train.csv
+[2025-12-02 21:33:26] First 5 rows:        id                                               text author
+0  id26305  This process, however, afforded me no means of...    EAP
+1  id17569  It never once occurred to me that the fumbling...    HPL
+2  id11008  In his left hand was a gold snuff box, from wh...    EAP
+3  id27763  How lovely is spring As we looked from Windsor...    MWS
+4  id12958  Finding nothing else, not even gold, the Super...    HPL
+[2025-12-02 21:33:26] Using text_col=text, label_col=author
+[2025-12-02 21:33:32] Seed 0: val accuracy = 0.8197
+[2025-12-02 21:33:33] Wrote submission.csv (8392 rows)
+[2025-12-02 21:33:33] Reading train.csv:/content/train.csv
+[2025-12-02 21:33:33] First 5 rows:        id                                               text author
+0  id26305  This process, however, afforded me no means of...    EAP
+1  id17569  It never once occurred to me that the fumbling...    HPL
+2  id11008  In his left hand was a gold snuff box, from wh...    EAP
+3  id27763  How lovely is spring As we looked from Windsor...    MWS
+4  id12958  Finding nothing else, not even gold, the Super...    HPL
+[2025-12-02 21:33:33] Using text_col=text, label_col=author
+[2025-12-02 21:33:38] Seed 1: val accuracy = 0.8161
+[2025-12-02 21:33:38] Reading train.csv:/content/train.csv
+[2025-12-02 21:33:38] First 5 rows:        id                                               text author
+0  id26305  This process, however, afforded me no means of...    EAP
+1  id17569  It never once occurred to me that the fumbling...    HPL
+2  id11008  In his left hand was a gold snuff box, from wh...    EAP
+3  id27763  How lovely is spring As we looked from Windsor...    MWS
+4  id12958  Finding nothing else, not even gold, the Super...    HPL
+[2025-12-02 21:33:38] Using text_col=text, label_col=author
+[2025-12-02 21:33:42] Seed 2: val accuracy = 0.8098
+[2025-12-02 21:33:42] Completed seeds. Mean=0.8152, SE=0.0029
+[2025-12-02 21:33:42] Wrote metrics.json and run_log.txt
