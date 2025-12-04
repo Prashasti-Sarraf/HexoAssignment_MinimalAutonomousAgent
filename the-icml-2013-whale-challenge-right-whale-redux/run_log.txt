@@ -1,0 +1,18 @@
+[2025-12-05 00:12:01] Detected modality: timeseries
+[2025-12-05 00:12:01] Running time-series audio pipeline...
+[2025-12-05 00:12:05] Epoch 1: val accuracy = 0.8451
+[2025-12-05 00:12:08] Epoch 2: val accuracy = 0.8523
+[2025-12-05 00:12:11] Epoch 3: val accuracy = 0.8490
+[2025-12-05 00:12:11] Saved submission to submission.csv
+[2025-12-05 00:12:11] Running time-series audio pipeline...
+[2025-12-05 00:12:15] Epoch 1: val accuracy = 0.8389
+[2025-12-05 00:12:18] Epoch 2: val accuracy = 0.8410
+[2025-12-05 00:12:21] Epoch 3: val accuracy = 0.8378
+[2025-12-05 00:12:21] Saved submission to submission.csv
+[2025-12-05 00:12:21] Running time-series audio pipeline...
+[2025-12-05 00:12:26] Epoch 1: val accuracy = 0.8422
+[2025-12-05 00:12:29] Epoch 2: val accuracy = 0.8460
+[2025-12-05 00:12:32] Epoch 3: val accuracy = 0.8435
+[2025-12-05 00:12:32] Saved submission to submission.csv
+[2025-12-05 00:12:32] Completed seeds. Mean=0.8421, SE=0.0045
+[2025-12-05 00:12:32] Wrote metrics.json and run_log.txt
