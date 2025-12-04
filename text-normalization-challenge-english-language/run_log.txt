@@ -1,0 +1,15 @@
+[2025-12-04 18:50:01] Detected modality: text-seq2seq
+[2025-12-04 18:50:01] Running Seq2Seq text normalization...
+[2025-12-04 18:50:22] Validation Exact-Match: 0.6878
+[2025-12-04 18:50:32] Saved predictions to submission.csv
+[2025-12-04 18:50:33] Seq2Seq finished. Exact Match: 0.6878
+[2025-12-04 18:50:33] Running Seq2Seq text normalization...
+[2025-12-04 18:50:52] Validation Exact-Match: 0.6930
+[2025-12-04 18:51:02] Saved predictions to submission.csv
+[2025-12-04 18:51:03] Seq2Seq finished. Exact Match: 0.693
+[2025-12-04 18:51:03] Running Seq2Seq text normalization...
+[2025-12-04 18:51:21] Validation Exact-Match: 0.6832
+[2025-12-04 18:51:31] Saved predictions to submission.csv
+[2025-12-04 18:51:31] Seq2Seq finished. Exact Match: 0.6832
+[2025-12-04 18:51:31] Completed seeds. Mean=0.6880, SE=0.0028
+[2025-12-04 18:51:31] Wrote metrics.json and run_log.txt
