@@ -1,0 +1,22 @@
+[2025-12-05 23:48:10] Detected modality: image
+[2025-12-05 23:48:10] Loaded train.csv shape=(33126, 2)
+
+[2025-12-05 23:48:14] Epoch 1: val accuracy = 0.7420
+[2025-12-05 23:48:19] Epoch 2: val accuracy = 0.7511
+[2025-12-05 23:48:24] Epoch 3: val accuracy = 0.7511
+[2025-12-05 23:48:24] Saved submission to submission.csv
+
+[2025-12-05 23:48:25] Loaded train.csv shape=(33126, 2)
+[2025-12-05 23:48:29] Epoch 1: val accuracy = 0.7312
+[2025-12-05 23:48:34] Epoch 2: val accuracy = 0.7369
+[2025-12-05 23:48:39] Epoch 3: val accuracy = 0.7369
+[2025-12-05 23:48:39] Saved submission to submission.csv
+
+[2025-12-05 23:48:40] Loaded train.csv shape=(33126, 2)
+[2025-12-05 23:48:45] Epoch 1: val accuracy = 0.7344
+[2025-12-05 23:48:50] Epoch 2: val accuracy = 0.7390
+[2025-12-05 23:48:55] Epoch 3: val accuracy = 0.7390
+[2025-12-05 23:48:55] Saved submission to submission.csv
+
+[2025-12-05 23:48:55] Completed seeds. Mean=0.7423, SE=0.0123
+[2025-12-05 23:48:55] Wrote metrics.json and run_log.txt
