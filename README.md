@@ -3,7 +3,7 @@
 ## One-liner to run the agent
 
 ```bash
-python minimal_autonomous_agent.py --dataset_dir <dataset> --output submission.csv --seeds 42 1337 999 --time_limit 86400
+python minimal_autonomous_agent.py --dataset_dir <dataset> --output submission.csv --seeds 0 1 2 --time_limit 86400
 ```
 
 
